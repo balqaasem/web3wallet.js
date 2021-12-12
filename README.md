@@ -1,6 +1,6 @@
 # web3wallet.js
 
-Wrap `@polkadot-js/api` to provide APIs for web3-setters-club/web3wallet-sdk.
+Web3 Wallet `@polkadot-js/api` wrap to provide APIs for web3-setters-club/web3wallet-sdk.
 
 @polkadot-js/api: ^v1.29.1
 
